@@ -4,37 +4,37 @@
 ![preview](./img/img_1.jpg)
 
 
-## -> Sign up and Sign in
+## -> Cadastro
 ![preview](./img/img_2.jpg)
 
 
-## -> Movies
+## -> Filmes
 ![preview](./img/img_3.jpg)
 
 
-## -> Profile
+## -> Perfil
 ![preview](./img/img_4.jpg)
 
 
-## -> Add Movies
+## -> Adicionar Filmes
 ![preview](./img/img_5.jpg)
 
-> Context
+> Contexto
 
-A website where you can create your user and register films on the platform, as well as where you can review films already added by other people, and where you can also give your rating to the posted film.
+Um site onde você pode criar seu usuário e cadastrar filmes a plataforma, assim como também você pode tecer críticas a filmes já adicionados por outras pessoas, podendo também dar sua nota do filme postado.
 
 
-## Technologies
+## Tecnologias
 - PHP
 - HTML5
 - CSS3
 - MySQL
 - Git e Github
 
-## Installation
+## Intalação
 
-1. Clone the repository into your htdocs:
+1. Clone o repositório no seu htdocs:
 ```bash
 git clone https://github.com/Rafael19722/MovieStar.git
 ```
-2. Start your Apache and MySQL through XAMPP and open the cloned repository folder
+2. Inicie o seu Apache pelo XAMPP e abra a pasta do repositório clonado
